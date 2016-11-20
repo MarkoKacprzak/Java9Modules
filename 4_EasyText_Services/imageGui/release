@@ -1,0 +1,7 @@
+#Sun Nov 20 11:21:50 CET 2016
+MODULES="easytext.analysis.coleman,easytext.analysis.kincaid,java.xml,jdk.jsobject,easytext.analysis.api,easytext.gui,java.datatransfer,javafx.base,java.desktop,javafx.graphics,javafx.controls,java.prefs,java.base"
+OS_VERSION="5.2"
+OS_ARCH="amd64"
+OS_NAME="Windows"
+JAVA_VERSION="9"
+JAVA_FULL_VERSION="9-ea"

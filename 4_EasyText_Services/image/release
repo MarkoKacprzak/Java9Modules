@@ -1,0 +1,7 @@
+#Sun Nov 20 11:13:42 CET 2016
+MODULES="easytext.cli,easytext.analysis.api,java.base"
+OS_VERSION="5.2"
+OS_ARCH="amd64"
+OS_NAME="Windows"
+JAVA_VERSION="9"
+JAVA_FULL_VERSION="9-ea"
